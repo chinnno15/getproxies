@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import Literal
+from typing_extensions import Literal
 
 Protocol = Literal['https', 'http', 'socks4', 'socks5']
 
