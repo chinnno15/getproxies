@@ -15,7 +15,7 @@ authors = [
 python = "^3.6"
 parsel = "^1.5.2"
 requests = "^2.22.0"
-click = "^7.2.1"
+click = "^8.0.3"
 
 [tool.poetry.dev-dependencies]
 ptpython = "^3.0.0"
